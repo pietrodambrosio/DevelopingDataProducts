@@ -15,6 +15,6 @@ In particular the 'TREND' page shows periodic trends in 4 different accounting e
 ### Links
 Here you can found the shinyapp: https://pdambrosio.shinyapps.io/shinyapp/
 
-Here are the source files:
+Here are the source files: https://github.com/pietrodambrosio/DevelopingDataProducts/
 
-Here is the presentation:
+Here is the presentation: http://rpubs.com/pietrodambrosio/197007
