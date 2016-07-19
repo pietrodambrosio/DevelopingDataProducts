@@ -4,6 +4,7 @@ library(maptools)
 library(ggplot2)
 
 
+
 codreg = 1
 voice = "1100"
 voice2 = voice

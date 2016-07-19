@@ -4,6 +4,7 @@
 
 library(shiny)
 
+
 shinyUI(
     navbarPage("Bank Of Italy SIOPE database - Cash availability by Region",
         tabPanel("Trends",
@@ -55,7 +56,9 @@ shinyUI(
                  p("The SIOPE system is managed by the Bank of Italy, Istat and Italian General Accounting Office  and is an electronic detection system of receipts and payments made by local government offices."),
                  p("In this application we show you some SIOPE data on the cash availability of italian municipalities, grouped by region."),
                  p("In particular the 'TREND' page shows periodic trends in 4 different accounting entries. Instead the 'CURRENT' page displays on a choropleth map the cash situation referred to May 2016."),
-                 
+                 h3("To Use Application"),
+                 p("In 'Trend' page select years range, accounting voice and region; the application will show you the decomposed time series plot of data selected."),
+                 p("In 'Current' page select accounting voice; the application will show you the current total value of selected voice and a choropleth map of italian region."),
                  width = 12
              )
         ) 

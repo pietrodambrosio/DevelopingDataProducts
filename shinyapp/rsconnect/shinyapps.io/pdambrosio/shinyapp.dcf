@@ -2,8 +2,8 @@ name: shinyapp
 account: pdambrosio
 server: shinyapps.io
 appId: 115221
-bundleId: 508101
+bundleId: 508869
 url: https://pdambrosio.shinyapps.io/shinyapp/
-when: 1468847698.63604
+when: 1468907514.57643
 asMultiple: FALSE
 asStatic: FALSE
